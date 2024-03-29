@@ -1,3 +1,10 @@
+# Isometric.js with React and Next.js in strict typescript
+via: https://elchininet.github.io/isometric/ & https://github.com/elchininet/isometric 
+
+Shown as class based and functional based components.
+
+NEXT JS DEFAULT README:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
