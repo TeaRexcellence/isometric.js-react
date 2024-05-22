@@ -2,7 +2,7 @@
 'use client'
 
 import FunctionalComponents from "@/components/FunctionalComponents";
-import ClassComponents from "@/components/classComponents";
+import ClassComponents from "@/components/ClassComponents";
 
 
 const Index = () => {
